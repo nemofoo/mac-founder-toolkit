@@ -21,7 +21,7 @@ Know a tool that belongs here? [Submit a PR!](CONTRIBUTING.md)
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [ShipClip](https://shipclip.app) | Native Mac screen recorder with zoom-to-click, multi-track audio, camera PiP with background removal, and shareable links with viewer analytics. | Paid |
+| [ShipClip](https://shipclip.app) | Fast, native Mac screen recorder. Auto zoom-to-click, auto captions, background removal, and shareable links with viewer analytics. Only 5 MB. | Paid |
 
 ## Video & Audio Production
 
