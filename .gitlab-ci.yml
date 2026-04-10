@@ -1,0 +1,11 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp README.md public/index.md
+    - cp CONTRIBUTING.md public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
