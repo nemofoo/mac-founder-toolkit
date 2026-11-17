@@ -43,6 +43,7 @@ Know a tool that belongs here? [Submit a PR!](CONTRIBUTING.md)
 |------|-------------|---------|
 | [ebb](https://ebb.cool) | Focus timer that fades your screen to help you stay in flow. | Free / Paid |
 | [GroupCtrl](https://github.com/brodmo/GroupCtrl) | Hotkey management — group and toggle keyboard shortcuts across apps. | Free |
+| [Wishbar](https://wishbar.app) | Mac menu bar app: type what you want in plain English and your own AI (ChatGPT through Codex, or Claude) builds it as a live widget in your menu bar. | Paid |
 
 ## Developer Tools
 
