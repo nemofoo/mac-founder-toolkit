@@ -43,6 +43,7 @@ Know a tool that belongs here? [Submit a PR!](CONTRIBUTING.md)
 |------|-------------|---------|
 | [ebb](https://ebb.cool) | Focus timer that fades your screen to help you stay in flow. | Free / Paid |
 | [GroupCtrl](https://github.com/brodmo/GroupCtrl) | Hotkey management — group and toggle keyboard shortcuts across apps. | Free |
+| [Linger](https://withlinger.com/) | Local-first image organizer for saving screenshots, links, and design references with their sources on Apple silicon Macs. | Paid |
 
 ## Developer Tools
 
